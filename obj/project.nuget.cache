@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "K0T64yj8UTbxkQxaTr3wKTNZ0MIWRgZ0a890NDdpxo7cMZ7gnVgjewKPpqAPx3A0R80GmaYwf9CNvX81ggqT9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\otte3\\Documents\\GitHub\\QnAapp\\QnAapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\otte3\\.nuget\\packages\\azure.ai.language.questionanswering\\1.1.0\\azure.ai.language.questionanswering.1.1.0.nupkg.sha512",
+    "C:\\Users\\otte3\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
+    "C:\\Users\\otte3\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\otte3\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.28.0\\microsoft.cognitiveservices.speech.1.28.0.nupkg.sha512",
+    "C:\\Users\\otte3\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0-preview.7.23375.6\\microsoft.extensions.configuration.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\otte3\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0-preview.7.23375.6\\microsoft.extensions.configuration.abstractions.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\otte3\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\7.0.0\\microsoft.extensions.configuration.fileextensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\otte3\\.nuget\\packages\\microsoft.extensions.configuration.json\\7.0.0\\microsoft.extensions.configuration.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\otte3\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\otte3\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\7.0.0\\microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
+    "C:\\Users\\otte3\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0\\microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "C:\\Users\\otte3\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-preview.7.23375.6\\microsoft.extensions.primitives.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "C:\\Users\\otte3\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\otte3\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\otte3\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\otte3\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\otte3\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\otte3\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
